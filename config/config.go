@@ -33,8 +33,8 @@ const (
 	// Ubuntu18 is Ubuntu Bionic
 	Ubuntu18 = "bionic"
 
-	// Ubuntu19 is Disco Dingo
-	Ubuntu19 = "disco"
+	// Ubuntu19 is Eoan Ermine
+	Ubuntu19 = "eoan"
 
 	// Ubuntu20 is  Focal Fossa
 	Ubuntu20 = "focal"
